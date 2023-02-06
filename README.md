@@ -7,6 +7,14 @@
 <li><p>Linguagem utilizada no projeto: <strong> SQL (Structured Query Language)</strong> </p></li>
 </ul>
 
+<hr>
+<h3>Métodos utilizados</h3>
+<ol>
+<li>SELECT</li>
+<li>INSERT</li>
+<li>UPDATE</li>
+<li>DELETE</li>
+<ol> 
 
 
 
