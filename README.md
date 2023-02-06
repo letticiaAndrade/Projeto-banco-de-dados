@@ -8,7 +8,7 @@
 </ul>
 
 <hr>
-<h3>Métodos utilizados</h3>
+<h3>Comandos utilizados</h3>
 <ol>
 <li>SELECT</li>
 <li>INSERT</li>
