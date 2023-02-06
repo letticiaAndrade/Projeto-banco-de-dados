@@ -14,7 +14,8 @@
 <li>INSERT</li>
 <li>UPDATE</li>
 <li>DELETE</li>
-<ol> 
+</ol> 
+<hr>
 
 
 
