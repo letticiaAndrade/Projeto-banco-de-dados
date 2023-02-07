@@ -10,10 +10,10 @@
 <hr>
 <h3>Comandos utilizados</h3>
 <ol>
-<li>SELECT</li>
-<li>INSERT</li>
-<li>UPDATE</li>
-<li>DELETE</li>
+<li>SELECT- Seleciona a tabela e mostra os seus dados</li>
+<li>INSERT- Adiciona novos dados</li>
+<li>UPDATE- Atualiza dados já existentes</li>
+<li>DELETE- Deleta dados</li>
 </ol> 
 <hr>
 
