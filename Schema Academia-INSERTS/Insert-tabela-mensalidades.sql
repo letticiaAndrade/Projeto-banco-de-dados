@@ -1,0 +1,5 @@
+INSERT INTO "Academia".mensalidades(data_inicio, data_fim, valor_mensal, total_desconto, tipo_pagamento) VALUES ('01-12-2022', '01-01-2023', 200, 80, 'Cartão de débito');
+INSERT INTO "Academia".mensalidades(data_inicio, data_fim, valor_mensal, total_desconto, tipo_pagamento) VALUES ('05-12-2022', '05-01-2023', 205, 33, 'Cartão de crédito');
+INSERT INTO "Academia".mensalidades(data_inicio, data_fim, valor_mensal, total_desconto, tipo_pagamento) VALUES ('10-12-2022', '10-01-2023', 195, 60, 'Cartão de crédito');
+INSERT INTO "Academia".mensalidades(data_inicio, data_fim, valor_mensal, total_desconto, tipo_pagamento) VALUES ('11-12-2022', '11-01-2023', 290, 39, 'Cartão de crédito');
+INSERT INTO "Academia".mensalidades(data_inicio, data_fim, valor_mensal, total_desconto, tipo_pagamento) VALUES ('14-12-2022', '14-01-2023', 500, 196, 'Cartão de débito');
