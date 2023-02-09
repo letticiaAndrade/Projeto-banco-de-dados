@@ -8,7 +8,7 @@
 </ul>
 
 <hr>
-<h3>Comandos utilizados</h3>
+<h3>Comandos utilizados:</h3>
 <ol>
 <li>SELECT- Seleciona a tabela e mostra os seus dados</li>
 <li>INSERT- Adiciona novos dados</li>
